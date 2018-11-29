@@ -1,5 +1,10 @@
 # Dynamic_Interpolation_Filter_by_jinhyun
-A programmable Interpolation filter with lowest hardware cost
+
+This page was made for explain how proposed Dynamic Interpolation filter
+works well.
+
+this filter proposed in thesis, 'A programmable Interpolation filter with lowest hardware cost' 
+which is for jinhyun's master degree graduate thesis in Sogang University.
 
 Simulation with Matlab code
 
