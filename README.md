@@ -8,4 +8,6 @@ which is for jinhyun's master degree graduate thesis in Sogang University.
 
 Simulation code with Matlab R2018a version
 
-Run DIF_simulation_live_script.mlx
+Please read DIF_simulation_PPT
+
+And Run DIF_simulation_live_script.mlx
