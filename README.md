@@ -6,8 +6,6 @@ works well.
 this filter proposed in thesis, 'A programmable Interpolation filter with lowest hardware cost' 
 which is for jinhyun's master degree graduate thesis in Sogang University.
 
-Simulation with Matlab code
-
-Simulation code maded by Matlab R2018a version
+Simulation code with Matlab R2018a version
 
 Run DIF_simulation_live_script.mlx
