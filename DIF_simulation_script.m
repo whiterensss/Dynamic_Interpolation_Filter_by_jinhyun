@@ -34,9 +34,9 @@ CutoffFreq=1/L;  % cutoff frequency with Normalized freq domain
 disp('filter length');
 disp(Coe.length);
 disp('Cutoff_Frequency');
-disp(cutoff);
+disp(CutoffFreq);
 % filter making
-Fst=cutoff;
+Fst=CutoffFreq;
 Ap = 0.1;
 Ast = 60;
 Fp = Fst*2/3;
